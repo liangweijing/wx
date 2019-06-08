@@ -1,0 +1,16 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "搜索",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "i-tag": "/static/iview/dist/tag/index",
+        "van-card": "/static/vant/dist/card/index",
+        "van-button": "/static/vant/dist/button/index",
+        "van-tag": "/static/vant/dist/tag/index",
+        "i-tabs": "/static/iview/dist/tabs/index",
+        "i-tab": "/static/iview/dist/tab/index",
+        "i-button": "/static/iview/dist/button/index"
+    }
+}

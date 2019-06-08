@@ -1,0 +1,20 @@
+{
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 150,
+    "usingComponents": {
+        "van-card": "/static/vant/dist/card/index",
+        "van-button": "/static/vant/dist/button/index",
+        "van-tag": "/static/vant/dist/tag/index",
+        "i-tabs": "/static/iview/dist/tabs/index",
+        "i-tab": "/static/iview/dist/tab/index",
+        "i-button": "/static/iview/dist/button/index",
+        "i-toast": "/static/iview/dist/toast/index",
+        "wux-toptips": "/static/wux/dist/toptips/index",
+        "i-load-more": "/static/iview/dist/load-more/index"
+    }
+}

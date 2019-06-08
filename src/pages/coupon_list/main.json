@@ -1,0 +1,10 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "优惠券",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "订单详情",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "wux-cell-group": "/static/wux/dist/cell-group/index",
+        "wux-cell": "/static/wux/dist/cell/index",
+        "wux-input": "/static/wux/dist/input/index",
+        "wux-textarea": "/static/wux/dist/textarea/index"
+
+
+    }
+}

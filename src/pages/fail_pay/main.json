@@ -1,0 +1,10 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "支付结果",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "wux-result": "/static/wux/dist/result/index"
+    }
+}

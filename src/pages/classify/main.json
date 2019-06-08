@@ -1,0 +1,10 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "商品分类",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "van-tree-select": "/static/vant/dist/tree-select/index"
+    }
+}

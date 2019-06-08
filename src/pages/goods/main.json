@@ -1,0 +1,22 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "商品详情",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "van-cell": "/static/vant/dist/cell/index",
+        "van-goods-action": "/static/vant/dist/goods-action/index",
+        "van-goods-action-icon": "/static/vant/dist/goods-action-icon/index",
+        "van-goods-action-button": "/static/vant/dist/goods-action-button/index",
+        "van-action-sheet": "/static/vant/dist/action-sheet/index",
+        "van-icon": "/static/vant/dist/icon/index",
+        "wux-icon": "/static/wux/dist/icon/index",
+        "van-tab": "/static/vant/dist/tab/index",
+        "van-tabs": "/static/vant/dist/tabs/index",
+        "i-toast": "/static/iview/dist/toast/index",
+        "wux-toptips": "/static/wux/dist/toptips/index"
+
+    }
+
+}

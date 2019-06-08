@@ -1,0 +1,9 @@
+{
+    "usingComponents": {
+        "van-button": "/static/vant/dist/button/index",
+        "van-cell": "/static/vant/dist/cell/index",
+        "wux-cell-group": "/static/wux/dist/cell-group/index",
+        "wux-cell-group": "/static/wux/dist/cell-group/index",
+        "wux-cell": "/static/wux/dist/cell/index"
+    }
+}

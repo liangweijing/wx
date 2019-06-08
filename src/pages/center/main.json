@@ -1,0 +1,16 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "个人中心",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "van-cell": "/static/vant/dist/cell/index",
+        "van-cell-group": "/static/vant/dist/cell-group/index",
+        "wux-icon": "/static/wux/dist/icon/index",
+        "wux-grids": "/static/wux/dist/grids/index",
+        "wux-grid": "/static/wux/dist/grid/index",
+        "wux-cell-group": "/static/wux/dist/cell-group/index",
+        "wux-cell": "/static/wux/dist/cell/index"
+    }
+}

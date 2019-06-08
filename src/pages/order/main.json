@@ -1,0 +1,25 @@
+{
+
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "订单详情",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "i-cell-group": "/static/iview/dist/cell-group/index",
+        "i-cell": "/static/iview/dist/cell/index",
+        "wux-cell-group": "/static/wux/dist/cell-group/index",
+        "wux-cell": "/static/wux/dist/cell/index",
+        "wux-select": "/static/wux/dist/select/index",
+        "i-swipeout": "/static/iview/dist/swipeout/index",
+        "i-action-sheet": "/static/iview/dist/action-sheet/index",
+        "i-icon": "/static/iview/dist/icon/index",
+        "wux-card": "/static/wux/dist/card/index",
+        "wux-wing-blank": "/static/wux/dist/wing-blank/index",
+        "wux-icon": "/static/wux/dist/icon/index",
+        "wux-button": "/static/wux/dist/button/index"
+
+    }
+
+
+}

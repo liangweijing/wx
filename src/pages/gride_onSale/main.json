@@ -1,0 +1,15 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "van-card": "/static/vant/dist/card/index",
+        "van-tag": "/static/vant/dist/tag/index",
+        "i-tabs": "/static/iview/dist/tabs/index",
+        "i-tab": "/static/iview/dist/tab/index",
+        "i-toast": "/static/iview/dist/toast/index",
+        "wux-toptips": "/static/wux/dist/toptips/index"
+    }
+}

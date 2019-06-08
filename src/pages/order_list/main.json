@@ -1,0 +1,18 @@
+{
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "订单列表",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+        "van-tab": "/static/vant/dist/tab/index",
+        "van-tabs": "/static/vant/dist/tabs/index",
+        "van-card": "/static/vant/dist/card/index",
+        "van-button": "/static/vant/dist/button/index",
+        "van-icon": "/static/vant/dist/icon/index",
+        "van-cell": "/static/vant/dist/cell/index",
+        "i-tabs": "/static/iview/dist/tabs/index",
+        "i-tab": "/static/iview/dist/tab/index",
+        "i-button": "/static/iview/dist/button/index"
+    }
+}
